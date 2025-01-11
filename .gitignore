@@ -1,0 +1,47 @@
+# Byte-compiled / optimized / compiled Python files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment variables and virtual environments
+.env
+*.env
+.venv/
+venv/
+ENV/
+env/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Logs and database files
+*.log
+*.sqlite3
+
+# Package files
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Temporary files
+*.bak
+*.swp
+*.tmp
+*.temp
+*.old
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Output folders
+lite_demo/demo_visualizations/
+*.png
+
+# Zip files
+*.zip
