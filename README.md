@@ -34,3 +34,9 @@ Upgrade to the full version to unlock additional features, datasets, and advance
 📝 License
 
 This demo is licensed under the MIT License. See the LICENSE file for more details.
+
+🌟 Want More?
+
+Upgrade to the full version to unlock additional features, datasets, and advanced scripts.
+
+👉 Visit seiddata.com to get the full package today!
