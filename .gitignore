@@ -45,3 +45,11 @@ lite_demo/demo_visualizations/
 
 # Zip files
 *.zip
+# Ignore virtual environments
+venv/
+.venv/
+
+# Ignore compiled files
+__pycache__/
+*.pyc
+*.pyo

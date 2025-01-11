@@ -1,1 +1,51 @@
-
+ID,Name,Email,Phone,Date,Category,Value,City,Country,Company,Job_Title,Payment_Method,Product,Quantity,Total_Cost
+7483,Jessica Wood,steven68@example.org,(271)469-4594,2025-01-09,B,610,Martinezshire,Kenya,Castillo-Parker,IT sales professional,Credit Card,Product B,6,1389.09
+6309,Tina Harris,michael11@example.net,+1-885-790-2627x179,2025-01-06,C,944,West Tyler,Jordan,Sanders PLC,Nutritional therapist,Credit Card,Product A,6,1710.91
+5850,Jared Hernandez,scott53@example.com,9848607801,2025-01-06,A,976,Tammyland,United States Minor Outlying Islands,Vega Group,"Editor, commissioning",Credit Card,Product A,1,937.52
+5371,Cole Morris,casey78@example.com,397.430.8631x980,2025-01-09,A,469,Jasonview,Equatorial Guinea,"Franklin, Scott and Velez",Quantity surveyor,Bank Transfer,Product C,10,155.65
+6896,Joshua Curtis,joelsanders@example.org,+1-749-890-2492x357,2025-01-03,D,432,Juliechester,Malawi,Matthews-Pitts,Adult guidance worker,PayPal,Product B,2,4315.69
+5885,Danny Collier,tmontgomery@example.org,001-735-695-1899x25512,2025-01-03,C,741,Hallview,Mauritania,"Hanson, Glass and Avila",Building control surveyor,Bank Transfer,Product D,9,3864.98
+3405,Samuel Lewis,matthewowen@example.net,269.397.3939,2025-01-05,B,416,Port Brianastad,Nepal,Conrad-Mason,Claims inspector/assessor,Bank Transfer,Product A,10,4469.36
+2368,Jamie Olsen,iford@example.net,+1-881-795-3384x83971,2025-01-10,D,575,North Erin,Lesotho,Cook Group,Ecologist,PayPal,Product B,5,4700.31
+8764,Corey Gould,michael71@example.org,001-709-251-9462x964,2025-01-10,C,242,South Christie,Botswana,"White, Stewart and Davis",Publishing copy,Bank Transfer,Product D,6,588.7
+7086,Seth Wolf,jeffreyguzman@example.org,+1-242-780-5717,2025-01-09,A,278,Villastad,Russian Federation,Singh-Jimenez,Education administrator,Bank Transfer,Product C,5,4899.69
+3084,Joseph Carroll,thompsonstephanie@example.net,(619)293-3933x11149,2025-01-09,D,115,North Seanside,Egypt,Scott-Jackson,"Education officer, community",Credit Card,Product D,7,4210.26
+9776,Jacob Jackson,donna59@example.com,+1-497-608-3732x92234,2025-01-05,C,329,Bettychester,Bulgaria,Smith and Sons,Museum/gallery exhibitions officer,Credit Card,Product A,6,377.18
+2171,Stephen Hoffman,ericmoreno@example.net,4042577921,2025-01-02,C,512,Ambermouth,Haiti,White-Knapp,Tree surgeon,Credit Card,Product D,8,4339.66
+5501,Jesus Hall,molly45@example.com,(814)597-3195,2025-01-09,C,430,Lake Chase,Congo,Allen Ltd,Tax inspector,Credit Card,Product A,7,1420.07
+5737,Jacob Snyder,amyjensen@example.com,(524)546-9098,2025-01-07,C,167,Joshuaport,Armenia,Bryan Inc,Museum/gallery curator,PayPal,Product D,9,1737.08
+1400,Jason Price,iporter@example.com,9868044564,2025-01-06,C,255,Toddshire,Algeria,Howard-Stanley,"Journalist, broadcasting",Bank Transfer,Product A,7,2152.9
+1423,James Jones,currychelsea@example.org,(347)955-3815x24069,2025-01-09,A,354,Petersbury,American Samoa,Patton and Sons,Drilling engineer,PayPal,Product D,5,4941.65
+7069,Amy Gonzalez,georgestephen@example.org,428-818-0880x2277,2025-01-09,B,838,West Kathleen,Madagascar,Fleming-Forbes,Primary school teacher,Credit Card,Product A,4,3530.16
+2066,James West,jameswoods@example.com,249-410-5307x9965,2025-01-02,C,957,Amychester,Bermuda,"Irwin, Thornton and Brown","Therapist, music",Credit Card,Product D,2,1981.16
+3623,James Moran,vberry@example.com,397.819.1778,2025-01-05,A,292,Rebeccaland,Estonia,Torres Inc,Early years teacher,PayPal,Product C,6,3547.36
+6800,Tony Gray,olara@example.net,+1-864-766-9049x8847,2025-01-01,A,208,Romeroville,Israel,"Perez, Smith and Gillespie","Designer, interior/spatial",PayPal,Product D,10,877.41
+9322,Audrey Chavez,benjamin61@example.org,3746545791,2025-01-08,D,218,Jamesville,Georgia,Cameron PLC,Charity officer,Bank Transfer,Product C,7,3250.68
+5133,James Blair,michellethompson@example.net,001-627-245-9541x5751,2025-01-01,D,775,New Valerie,Saint Lucia,Glass Group,"Therapist, horticultural",PayPal,Product A,9,236.37
+7292,Jose Hill,davidrogers@example.com,2073219581,2025-01-10,C,416,West Ashley,Malawi,Smith Ltd,"Administrator, education",Bank Transfer,Product D,9,1543.06
+5080,Gary Campbell,jlane@example.com,001-217-730-8857x674,2025-01-10,A,511,Lake Patricia,Martinique,Davies Inc,Civil Service fast streamer,Bank Transfer,Product D,9,3483.84
+6600,Lisa Long,vgutierrez@example.com,613-366-2774,2025-01-09,C,961,Turnerland,Uruguay,"Brown, Drake and Ruiz","Conservator, museum/gallery",PayPal,Product D,5,2848.2
+1617,Angel White,perezgavin@example.org,+1-337-403-1785x67928,2025-01-06,C,926,Phillipborough,Israel,Thomas-Torres,Chief Technology Officer,Bank Transfer,Product A,8,2245.0
+4087,Scott Hill,ygrant@example.net,(725)323-2361x049,2025-01-07,D,92,Russellville,Cook Islands,Fischer-Durham,International aid/development worker,Bank Transfer,Product C,10,1911.38
+5858,Jerry Hall,ihubbard@example.org,776.557.4854,2025-01-07,A,983,North Alexis,Estonia,Long-Powell,IT trainer,PayPal,Product A,1,337.02
+5152,Jeffery Tucker,richsarah@example.net,742.385.4238x600,2025-01-05,B,873,South Daniel,Luxembourg,"Sloan, Gonzalez and Gonzalez",Energy engineer,PayPal,Product A,7,4583.74
+2427,Mark Rodriguez,wgarcia@example.com,794.706.2281x8004,2025-01-10,C,337,Bryanfort,Zambia,Mccarthy Inc,Chief Operating Officer,PayPal,Product A,6,4737.84
+9303,Mario Cherry,nelsonnathaniel@example.org,955-795-9243,2025-01-01,B,908,Georgeton,New Zealand,Richardson Ltd,Pharmacologist,Bank Transfer,Product B,1,2487.17
+9618,David Green,davisbrittany@example.com,001-828-765-1827,2025-01-06,B,394,North Marie,Slovenia,"Wilson, Jenkins and Cooke",Secondary school teacher,Bank Transfer,Product D,10,3362.21
+4302,Wendy House,christieperkins@example.com,+1-649-227-0453x1959,2025-01-07,D,569,Kellichester,United States Minor Outlying Islands,Doyle-Lee,Computer games developer,Credit Card,Product D,3,4729.61
+9302,Michael Harris,thomasmartin@example.net,001-902-328-7179,2025-01-09,B,378,Tinastad,Turks and Caicos Islands,Edwards-Hill,Advice worker,Bank Transfer,Product B,9,983.97
+3156,Dustin Myers,nroberts@example.net,943.587.9268,2025-01-01,C,724,Littleton,Eritrea,Villarreal-Griffin,Make,Bank Transfer,Product C,5,2035.67
+9972,Brittany Avery,gmcgee@example.net,001-570-525-8404x271,2025-01-04,D,224,Onealbury,Panama,Allen-Harris,"Designer, interior/spatial",PayPal,Product B,7,411.75
+3788,Lorraine Drake,jeanettecooper@example.org,+1-984-823-7484x30851,2025-01-09,C,568,Port Emilymouth,Moldova,Lewis-Ramirez,"Designer, industrial/product",PayPal,Product C,4,3981.59
+7582,Kristin Evans,castrodiane@example.net,988-648-0715x6514,2025-01-07,D,273,South Johnport,United Arab Emirates,Newton-Marshall,"Pharmacist, community",Credit Card,Product D,8,206.81
+8526,Rachel Davenport,christina32@example.net,+1-840-699-1353,2025-01-09,B,331,West Mia,Bulgaria,Wolfe-Weber,Energy manager,PayPal,Product B,3,771.89
+2826,Rebecca Sandoval,smoore@example.com,9165622213,2025-01-06,C,371,Port Wayne,Wallis and Futuna,"Brown, Hawkins and Mack",Insurance broker,PayPal,Product C,10,4561.61
+9999,Thomas Miller,john71@example.com,(433)263-9867x15142,2025-01-10,C,498,Port Daniel,Western Sahara,"Robinson, Smith and Soto",Herpetologist,Credit Card,Product C,7,4582.23
+9297,John Howell,nvelazquez@example.com,(259)783-9528x4991,2025-01-02,B,333,Hullchester,Malta,Hayes Ltd,"Social research officer, government",Bank Transfer,Product C,6,1620.01
+8133,Anthony Hill,johnrivera@example.org,+1-886-802-3117,2025-01-09,D,22,Acevedohaven,Iran,Schultz LLC,Medical technical officer,Bank Transfer,Product C,2,4641.87
+8825,James Bowers,debbie71@example.org,402-288-8094x04966,2025-01-02,C,609,Jacobberg,British Indian Ocean Territory (Chagos Archipelago),"Fischer, Wilson and Fitzgerald",Tree surgeon,PayPal,Product C,2,2254.98
+5733,Brittney Smith MD,valdezsamantha@example.net,+1-478-571-2740x7217,2025-01-03,A,920,Lake Michelle,Turkmenistan,Weber Group,Catering manager,Bank Transfer,Product A,1,2237.59
+9929,Hannah Martinez,colemancandice@example.org,(839)839-9338,2025-01-09,D,151,Kevinside,French Guiana,Young Inc,Television/film/video producer,Bank Transfer,Product C,6,2459.48
+6463,Lauren Gillespie,garciakathleen@example.com,001-273-273-0683,2025-01-09,C,911,East Brandonmouth,Nepal,Barker-Taylor,"Civil engineer, contracting",Bank Transfer,Product C,10,3388.18
+9497,Jeffery Morris,sarah99@example.org,(693)672-1865,2025-01-05,D,296,Millerfort,British Virgin Islands,Watkins-Conway,"Engineer, mining",Bank Transfer,Product C,10,1322.22
+6368,Jade Koch,vboyer@example.net,(747)769-2684x1449,2025-01-05,C,563,Selenaview,Turkey,Marsh Group,"Education officer, museum",Bank Transfer,Product B,9,4240.3
